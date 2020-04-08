@@ -1,8 +1,11 @@
 # assignment
 TECHNICAL ASSIGNMENT
+
 #springBoot framework  #database:Oracle
+
 # UItesting using Postman
 #CRUD operations on items
+
 adding items
 http://localhost:8989/items/add----postMapping
 getting  items by id based
